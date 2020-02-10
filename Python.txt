@@ -1,0 +1,56 @@
+Python - Selenium webdriver - BDD - Cucumber
+
+Identifiers - Uppercase / lowercase / Numbers / Underscore
+Multiline comments - # / ''' / """
+Indentation - TAB
+Variables 
+Type Inference - Automatic detection of data type of an expression
+Constants
+Literals - Numeric (Integer/Float/Complex), String, Unicode, Character, 
+		Multiline strings, raw string, Boolean, Special (None)
+Python Data Types - Type, Isinstanceof
+Collections - List, Tuple, Dictionary, Set
+List - Mutable / Ordered
+Others - Immutable / unordered
+Set - Ignores duplicates / Cannot slice
+Dictionary - Key / value pair
+Slicing Operator - [] - extracts data
+Type conversion - Implicit (no loss of data due to conversion from lower datatype to higher) & Explicit (May loss of data)
+python I/O 
+Python output syntax - print (*objects, sep='',end='\n',file=sys.stdout,flush=false)
+String.format - Placeholders {}
+Python input - eval (treats the string as python expression and converts it to Integer)
+Python import
+Python - from <module> import <specific attributes / functions>
+file read - open (filename, 'r')
+file write - open (filename, 'w')
+Subprocess - Helps to interact python scripts with command line interfaces
+BeautifulSoup - Web scraping
+Operators - Arithmetic / Comparison / Assignment , compound / Logical / Bitwise / Special Operators 
+(Identity [is, is not], Membership [in, not in]) -- Operands
+Namespace - Name of the variable that holds the obj..Built-in Namespace (Print() /id()), Global Namespace (Modules), 
+Local Namespace(functions)...lifetime of namespace ends when scope of the objects ends
+if elif else
+for loop (when u traverse through a sequence)
+range (start,stop,step size)
+while (when u have no idea on the no of iteration)
+break - terminates the loop
+continue - skips the current iteration and proceeds with next iteration
+pass - results into NO OPERATION. can be used when a loop or function to be implemented later.
+def function_name(param):
+docstrings - __doc__ (or) help(function_name)
+return - to exit a function and go back to where it was called
+function arguments - default / keyword / arbitrary
+Recursive functions - when same func to be used inside the func
+lambda functions - Anonymous functions - nameless functions - used when higher-order funcs takes other functions as args. used along with filter(), map()
+filter / map - takes func & list as arguments
+global / local / non-local variable - [changing the value of non-local variable - changes the value of local variable]
+Packages are treated as Directories / Modules as files
+Lexer vs Parser
+list - How to access (List Index) - List Comprehension
+
+
+
+
+
+
