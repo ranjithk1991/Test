@@ -18,7 +18,7 @@ Going_to.clear()
 Going_to.send_keys("HK")
 
 start_date = driver.find_element_by_name('startDate')
-start_date.clear()s
+start_date.clear()
 start_date.send_keys('11/04/2020')
 
 end_date = driver.find_element_by_xpath("//*[@id='hotel-checkout-hp-hotel']")
